@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Kidney-Disease-Classification-MLflow-DVC
+https://github.com/pavankumarcn66/__kidney_Disease_Classification_.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
